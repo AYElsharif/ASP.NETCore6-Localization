@@ -1,0 +1,8 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+
+@inject IViewLocalizer ViewLocalizer
+
+<div class="text-center">
+    <h1 class="display-4">@ViewLocalizer["WelcomeMessage"]</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">@ViewLocalizer["building Web apps with ASP.NET Core"]</a>.</p>
+</div>

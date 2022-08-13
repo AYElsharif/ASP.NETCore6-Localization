@@ -1,0 +1,68 @@
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/appsettings.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.staticwebassets.runtime.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.exe
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.deps.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.runtimeconfig.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.pdb
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.csproj.AssemblyReference.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.AssemblyInfoInputs.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.AssemblyInfo.cs
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.csproj.CoreCompileInputs.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.RazorAssemblyInfo.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.RazorAssemblyInfo.cs
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/scopedcss/bundle/Multilanguages-App.styles.css
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/scopedcss/projectbundle/Multilanguages-App.bundle.scp.css
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/refint/Multilanguages-App.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.pdb
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.genruntimeconfig.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/ref/Multilanguages-App.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.csproj.GenerateResource.cache
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/ar/Multilanguages-App.resources.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/en/Multilanguages-App.resources.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages_App.Resources.Views.Home.Index.ar.resources
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages_App.Resources.Views.Home.Index.en.resources
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/ar/Multilanguages-App.resources.dll
+C:/Users/Abdulsalam/Documents/Visual Studio 2022/My Projects/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/en/Multilanguages-App.resources.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/appsettings.Development.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/appsettings.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.staticwebassets.runtime.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.deps.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.runtimeconfig.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/Multilanguages-App.pdb
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/ar/Multilanguages-App.resources.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/bin/Debug/net6.0/en/Multilanguages-App.resources.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.csproj.AssemblyReference.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages_App.Resources.Views.Home.Index.ar.resources
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages_App.Resources.Views.Home.Index.en.resources
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.csproj.GenerateResource.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.AssemblyInfoInputs.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.AssemblyInfo.cs
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.csproj.CoreCompileInputs.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.MvcApplicationPartsAssemblyInfo.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.RazorAssemblyInfo.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.RazorAssemblyInfo.cs
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/ar/Multilanguages-App.resources.cs
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/ar/Multilanguages-App.resources.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/en/Multilanguages-App.resources.cs
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/en/Multilanguages-App.resources.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/staticwebassets.build.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/staticwebassets.development.json
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/scopedcss/bundle/Multilanguages-App.styles.css
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/scopedcss/projectbundle/Multilanguages-App.bundle.scp.css
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/refint/Multilanguages-App.dll
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.pdb
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/Multilanguages-App.genruntimeconfig.cache
+/Users/abdulsalam/Desktop/Multilanguages-App/Multilanguages-App/obj/Debug/net6.0/ref/Multilanguages-App.dll
